@@ -1,3 +1,4 @@
+# UNFERTIG
 # cantate &rarr; Jäger
 WLAN-Fernsteuerung für kabelgebundene Liedanzeiger, um die Umrüstung auf den Zahlengeber "ZG-08 Funk" für gut 1000€ zu umgehen.
 
